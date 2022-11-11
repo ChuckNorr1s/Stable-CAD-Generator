@@ -28,6 +28,12 @@ root.resizable(False, False)
 frame = tk.Frame(root, bg="#07060f")
 frame.pack(expand=True, fill="both")
 
+log = ImageTk.PhotoImage(Image.open("logo.png").resize((350,120)))
+photo = PhotoImage(...)
+logo = tk.Label(frame,image=log)
+logo.image = log
+logo.place(x=120, y=450)
+
 def check_widget():
    try:
     if(label):
