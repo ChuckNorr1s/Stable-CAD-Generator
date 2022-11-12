@@ -42,3 +42,5 @@ https://www.tensorflow.org/ (image classification)
 https://beta.dreamstudio.ai/ (the api that generates the new image, limited to about 124)
 
 https://docs.python.org/3/library/tkinter.html (the library used for the UI)
+
+https://pillow.readthedocs.io/ (used for displaying the images)
