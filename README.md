@@ -32,6 +32,8 @@ please check if you added your api key on line 16.
 To get a new API key please visit https://beta.dreamstudio.ai/membership .
 
 # Sources/Modules used
+https://numpy.org/ (used for expanding the dimensions of the image)
+
 https://www.tensorflow.org/ (image classification)
 
 https://beta.dreamstudio.ai/ (the api that generates the new image, limited to about 124)
