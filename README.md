@@ -18,6 +18,7 @@ python3 main.py
 You must have a good internet connection since an api is being called.
 
 You must provide a CAD model or a blueprint otherwise it will generate incorrect results.
+
 If it does not generate the desired results make sure the images are in RGB mode.(optional)
 
 # Possible errors
