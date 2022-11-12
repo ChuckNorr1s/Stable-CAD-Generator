@@ -34,6 +34,6 @@ To get a new API key please visit https://beta.dreamstudio.ai/membership .
 # Sources/Modules used
 https://www.tensorflow.org/ (image classification)
 
-beta.dreamstudio.ai/ (the api that generates the new image, limited to about 124)
+https://beta.dreamstudio.ai/ (the api that generates the new image, limited to about 124)
 
 https://docs.python.org/3/library/tkinter.html (the library used for the UI)
