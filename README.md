@@ -14,6 +14,7 @@ python3 main.py
 
 # Notes
 You must have a good internet connection since an api is being called.
+
 You must provide a CAD model or a blueprint otherwise it will generate incorrect results.
 If it does not generate the desired results make sure the images are in RGB mode.(optional)
 
@@ -24,8 +25,10 @@ the new one is conflicting the packages.
 Tested on Python 3.10/3.10.8.
 If tensorflow throws an AVX instruction error that means that your CPU is not supported.
 Please check if your CPU supports AVX https://10scopes.com/cpu-support-avx/.
+
 If an error occurs while generating the image after the recognition, 
 please check if you added your api key on line 16.
+
 To get a new API key please visit https://beta.dreamstudio.ai/membership .
 
 # Sources/Modules used
