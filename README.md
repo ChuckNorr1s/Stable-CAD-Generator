@@ -21,6 +21,8 @@ You must provide a CAD model or a blueprint otherwise it will generate incorrect
 
 If it does not generate the desired results make sure the images are in RGB mode.(optional)
 
+Use the example.png as a test image to generate sample output.
+
 # Possible errors
 If it gives an error during installation make sure your Python version is before 3.11 since
 the new one is conflicting the packages.
