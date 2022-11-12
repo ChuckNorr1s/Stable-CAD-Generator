@@ -20,6 +20,7 @@ If it does not generate the desired results make sure the images are in RGB mode
 # Possible errors
 If it gives an error during installation make sure your Python version is before 3.11 since
 the new one is conflicting the packages.
+
 Tested on Python 3.10/3.10.8.
 If tensorflow throws an AVX instruction error that means that your CPU is not supported.
 Please check if your CPU supports AVX https://10scopes.com/cpu-support-avx/.
