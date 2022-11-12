@@ -3,7 +3,9 @@ Innovative CAD generator using Stable Diffusion
 
 # Description
 Uses the newly published Stable Diffusion model to generate CAD models/blueprints.
+
 For image recognition/classification the model tensorflow is used.
+
 For UI the module tkinter is used.
 
 # Installation 
